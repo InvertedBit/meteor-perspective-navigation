@@ -2,7 +2,7 @@ Package.describe({
     
     summary: "Perspective page view navigation."
     version: "1.0.0",
-    name: "jelenajjo:meteor-perspective-navigation",
+    name: "jelena:meteor-perspective-navigation",
     git: "https://github.com/jelenajjo/meteor-perspective-navigation.git"
     
 });
