@@ -7,7 +7,7 @@ Package.describe({
     
 });
 
-Package.on_use(function (api) {
+Package.onUse(function (api) {
     
     api.addFiles("component.css", "client");
     api.addFiles("modernizr.custom.25376.js", "client");
